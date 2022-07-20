@@ -7,7 +7,9 @@ A visual portfolio generator with web hosting for your mockups and photo albums.
 
 
 ## Dependencies
-🔥 NONE 🔥
+- chocolatey (Windows only)
+- python
+- git
 
 ## Making your own gallery in less than 5 minutes
 - Fork this repository🍴
@@ -25,7 +27,7 @@ A visual portfolio generator with web hosting for your mockups and photo albums.
     IMG_1235.jpg
 ```
 
-- Open the folder in finder and **double click** `setup.command`. This will go through all of your albums and create a `config.json` file for you. This file allows the generator to know which photos will be hosted on your website.✨
+- Open this folder in VSCode. If a git bash terminal is not open, open one with the terminal menu, then type `bash setup.sh` and press enter. This will go through all of your albums and create a `config.json` file for you. This file allows the generator to know which photos will be hosted on your website.✨
 - Personalize the contents at the bottom of `_config.yml`.
 - Commit all of your changes and then push all of your changes to Github by running
 ```
@@ -44,7 +46,7 @@ If you want Google Analytics, replace `_includes/ga.html` with your own snippet.
 There are two important pieces to gallery:
 
 ### Album Generation
-`setup.command` goes through all of the folders in your `/photos/` directory. It collects all of the file paths of each photo in each album. It aggregates all of this data into one key file called `config.json`.
+`setup.sh` goes through all of the folders in your `/photos/` directory. It collects all of the file paths of each photo in each album. It aggregates all of this data into one key file called `config.json`.
 
 ### Client-side Generation
 Once you've created your `config.json`, the website can now use that file to figure out which photos to show. It uses JavaScript(ES6🔥!) to layout your photos, grouping all of the photos per album.
