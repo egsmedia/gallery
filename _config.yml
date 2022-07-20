@@ -57,3 +57,5 @@ baseurl: /
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 url: http://egsmedia.github.io/gallery/
+
+theme: jekyll-theme-tactile
