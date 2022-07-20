@@ -4,25 +4,25 @@
       "width": 6240,
       "height": 4160,
       "path": "./photos/album/_DSF1777.jpg",
-      "compressed_path": "./photos/album/_DSF1777.min.jpg",
+      "compressed_path": "./photos/album/_DSF1777.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/album/_DSF1777.placeholder.jpg"
+      "placeholder_path": "./photos/album/_DSF1777.jpg"
     },
     {
       "width": 5688,
       "height": 3792,
       "path": "./photos/album/_DSF1787.jpg",
-      "compressed_path": "./photos/album/_DSF1787.min.jpg",
+      "compressed_path": "./photos/album/_DSF1787.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/album/_DSF1787.placeholder.jpg"
+      "placeholder_path": "./photos/album/_DSF1787.jpg"
     },
     {
       "width": 6240,
       "height": 4160,
       "path": "./photos/album/_DSF1802.jpg",
-      "compressed_path": "./photos/album/_DSF1802.min.jpg",
+      "compressed_path": "./photos/album/_DSF1802.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/album/_DSF1802.placeholder.jpg"
+      "placeholder_path": "./photos/album/_DSF1802.jpg"
     }
   ],
   "album2": [
@@ -30,25 +30,25 @@
       "width": 6240,
       "height": 4160,
       "path": "./photos/album2/_DSF1803.jpg",
-      "compressed_path": "./photos/album2/_DSF1803.min.jpg",
+      "compressed_path": "./photos/album2/_DSF1803.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/album2/_DSF1803.placeholder.jpg"
+      "placeholder_path": "./photos/album2/_DSF1803.jpg"
     },
     {
       "width": 6240,
       "height": 4160,
       "path": "./photos/album2/_DSF1876.jpg",
-      "compressed_path": "./photos/album2/_DSF1876.min.jpg",
+      "compressed_path": "./photos/album2/_DSF1876.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/album2/_DSF1876.placeholder.jpg"
+      "placeholder_path": "./photos/album2/_DSF1876.jpg"
     },
     {
       "width": 6240,
       "height": 4160,
       "path": "./photos/album2/_DSF1959.jpg",
-      "compressed_path": "./photos/album2/_DSF1959.min.jpg",
+      "compressed_path": "./photos/album2/_DSF1959.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/album2/_DSF1959.placeholder.jpg"
+      "placeholder_path": "./photos/album2/_DSF1959.jpg"
     }
   ]
 }
