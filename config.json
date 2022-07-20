@@ -1,3 +1,52 @@
 {
-  "album": []
+  "album": [
+    {
+      "width": 6240,
+      "height": 4160,
+      "path": "./photos/album/_DSF1777.jpg",
+      "compressed_path": "./photos/album/_DSF1777.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/album/_DSF1777.placeholder.jpg"
+    },
+    {
+      "width": 5688,
+      "height": 3792,
+      "path": "./photos/album/_DSF1787.jpg",
+      "compressed_path": "./photos/album/_DSF1787.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/album/_DSF1787.placeholder.jpg"
+    },
+    {
+      "width": 6240,
+      "height": 4160,
+      "path": "./photos/album/_DSF1802.jpg",
+      "compressed_path": "./photos/album/_DSF1802.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/album/_DSF1802.placeholder.jpg"
+    },
+    {
+      "width": 6240,
+      "height": 4160,
+      "path": "./photos/album/_DSF1803.jpg",
+      "compressed_path": "./photos/album/_DSF1803.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/album/_DSF1803.placeholder.jpg"
+    },
+    {
+      "width": 6240,
+      "height": 4160,
+      "path": "./photos/album/_DSF1876.jpg",
+      "compressed_path": "./photos/album/_DSF1876.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/album/_DSF1876.placeholder.jpg"
+    },
+    {
+      "width": 6240,
+      "height": 4160,
+      "path": "./photos/album/_DSF1959.jpg",
+      "compressed_path": "./photos/album/_DSF1959.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/album/_DSF1959.placeholder.jpg"
+    }
+  ]
 }
